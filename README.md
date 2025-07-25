@@ -5,7 +5,8 @@
 
 ➗ Calculator
 
-# It uses the newer create_openai_functions_agent approach, which aligns with the latest LangChain design.
+### It uses the newer 
+create_openai_functions_agent approach, which aligns with the latest LangChain design.
 
 # 🧠 Features
 Uses OpenAI's GPT model to intelligently decide whether to:
